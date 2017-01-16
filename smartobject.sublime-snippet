@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+var ${1:element} = new SmartObject();
+${1:element}.style.${3:property} = ${4:value};
+${2:parent}.appendChild(${1:element});
+]]></content>
+    <tabTrigger>sm</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

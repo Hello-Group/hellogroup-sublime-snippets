@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<script src="http://localhost:8888/misc/GreenSock-JS/src/minified/TweenMax.min.js"></script>
+]]></content>
+	<tabTrigger>tm</tabTrigger>
+	<description>TweenMax localhost</description>
+</snippet>

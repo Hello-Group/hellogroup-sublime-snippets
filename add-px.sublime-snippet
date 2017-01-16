@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
++ 'px';
+]]></content>
+    <tabTrigger>px</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

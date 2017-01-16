@@ -1,0 +1,7 @@
+<snippet>
+<content><![CDATA[
+style.${1:property} = ${2:value};
+]]></content>
+    <tabTrigger>sty</tabTrigger>
+    <scope>source.css, text.html</scope>
+</snippet>

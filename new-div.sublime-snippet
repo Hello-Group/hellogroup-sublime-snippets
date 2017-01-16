@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+var ${1:element} = document.createElement('div');
+${1:element}.style.${4:property} = ${5:value};
+${3:parent}.appendChild(${1:element});
+]]></content>
+    <tabTrigger>newdiv</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
